@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cyber_banner.jpg" width="100%" alt="Banner">
+  <img src="Welcome.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋 I'm Muhammed Rafnas</h1>
