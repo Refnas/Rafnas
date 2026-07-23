@@ -14,7 +14,7 @@ Passionate about solving technical challenges, building modern applications, and
 
 <p align="center">
   <a href="mailto:muhammedrefnas786@gmail.com">
-    <img src="https://logowik.com/content/uploads/images/gmail-with-text4662.logowik.com.webp">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://linkedin.com/in/YOUR-LINK">
