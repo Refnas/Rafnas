@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Muhammed Rafnas</h1>
 
 <h3 align="center">
-IT Technical Support Engineer • Flutter Developer • Front-End Developer • Networking
+IT Technical Support • Flutter Developer • Front-End Developer • Networking
 </h3>
 
 <p align="center">
@@ -26,11 +26,10 @@ Passionate about solving technical challenges, building modern applications, and
 
 ## 💻 About Me
 
-- 🔧 IT Technical Support Engineer
+- 🔧 IT Technical Support
 - 📱 Flutter Mobile App Developer
 - 🌐 React Front-End Developer
 - 🖥 Windows & Network Administration
-- 🌱 Currently learning Networking & Cybersecurity
 - ⚡ Always learning new technologies
 
 ---
@@ -51,10 +50,10 @@ Passionate about solving technical challenges, building modern applications, and
 $ whoami
 
 Name       : Muhammed Rafnas
-Role       : IT Technical Support Engineer
+Role       : IT Technical Support
 Location   : UAE
 Status     : Online
-Focus      : Networking | Flutter | Front-End
+Focus      : Networking | Flutter Developer | Front-End Developer
 ```
 
 ## 📈 GitHub Statistics
