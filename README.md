@@ -78,7 +78,7 @@ Focus      : Networking | Flutter Developer | Front-End Developer
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Refnas/Refnas/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Refnas/Refnas/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </p>
 
